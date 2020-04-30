@@ -3,4 +3,4 @@
 - Create a new projects with Express Framework
 - Serving static files
 - Send data to view
-- Handle POST request body use using body parser middleware
+- Handle POST request body using body parser middleware
